@@ -4,7 +4,7 @@ plugins {
   signing
 }
 
-group = "io.foxapades.lib"
+group = "io.foxcapades.lib"
 version = "1.0.0"
 
 repositories {
